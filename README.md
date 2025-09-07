@@ -68,8 +68,8 @@ It improves the process of reporting, identifying, and redeeming lost items by c
 
 ## 🔹 Team Members
 1. Abralyn Hoo Weng Yan
-2. 
-3. 
-4. 
+2. Koay Sze Yi
+3. Ivan
+4. Tan Hong Shen
 
 
