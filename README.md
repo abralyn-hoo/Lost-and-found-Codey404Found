@@ -1,7 +1,7 @@
 # Lost & Found Web Application (Prototype)
 
 ## 🔹 Track & Problem Statement
-- **Track:** Software Track
+- **Track:** Student Lifestyle
 - **Problem Statement:** Lost & Found System for University Campus
 
 ---
