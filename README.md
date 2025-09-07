@@ -60,16 +60,16 @@ It improves the process of reporting, identifying, and redeeming lost items by c
 ---
 
 ## 🔹 Prototype Phase Deliverables
-- **Figma Prototype:** [https://www.figma.com/proto/B4oNO13TfoPMthqP2YDegK/Untitled?page-id=0%3A1&node-id=8-3937&p=f&m=draw&scaling=min-zoom&content-scaling=fixed&t=hdWK5rj73nNxEESo-1]
-- **Slides:** [https://www.canva.com/design/DAGx8IXe368/ThkvhixIT__BieL0ZlhUZA/edit?utm_content=DAGx8IXe368&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
-- **Video Presentation (≤ 5 min):** [Insert YouTube Link Here]
+- **Figma Prototype:** https://www.figma.com/proto/B4oNO13TfoPMthqP2YDegK/Untitled?page-id=0%3A1&node-id=8-3937&p=f&m=draw&scaling=min-zoom&content-scaling=fixed&t=hdWK5rj73nNxEESo-1
+- **Slides:** https://www.canva.com/design/DAGx8IXe368/ThkvhixIT__BieL0ZlhUZA/edit?utm_content=DAGx8IXe368&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- **Video Presentation (≤ 5 min):** Insert YouTube Link Here
 
 ---
 
 ## 🔹 Team Members
-1. [Abralyn Hoo Weng Yan]
-2. []
-3. []
-4. []
+1. Abralyn Hoo Weng Yan
+2. 
+3. 
+4. 
 
 
